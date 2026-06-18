@@ -1,4 +1,4 @@
-# MyMiniWorks
+# Boost-Converter
 
 A collection of mini projects in hardware design, PCB layout, simulation, and coding.
 
